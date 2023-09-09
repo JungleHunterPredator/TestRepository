@@ -75,7 +75,7 @@ Make changes
 
 ### Step 2:
 
-Go to Source Control (CTRIL + SHIFT + G)
+Go to Source Control ( CTRIL + SHIFT + G )
 
 ### Step 3:
 

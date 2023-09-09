@@ -1,7 +1,7 @@
 # Test Repository
 This is a Repository for testing function on GitHub.
 
-# What you can do in Git-Hub README file
+## What you can do in Git-Hub README file!
 
 ## Commands!
 

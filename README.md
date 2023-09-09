@@ -66,3 +66,21 @@ Save to a place
 Open It
 
 ## ------------------------------------------->
+
+## How to update code to GitHub in VScode
+
+### Step 1:
+
+Make changes
+
+### Step 2:
+
+Go to Source Control (CTRIL + SHIFT + G)
+
+### Step 3:
+
+Click "Commit"
+
+### Step 4:
+
+Click ""

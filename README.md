@@ -24,7 +24,7 @@ This is a Repository for testing function on GitHub.
 2. Banana
 3. Coconut
 
-"*" to create a ... list
+"*" to create a dotted list
 * Apple
 * Banana
 * Coconut

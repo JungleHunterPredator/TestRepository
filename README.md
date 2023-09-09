@@ -83,4 +83,4 @@ Click "Commit"
 
 ### Step 4:
 
-Click ""
+Click "Sync"

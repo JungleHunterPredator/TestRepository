@@ -21,3 +21,8 @@ This is a Repository for testing function on GitHub.
 1. Apple
 2. Banana
 3. Coconut
+
+"*" to create a numeral list
+1. Apple
+2. Banana
+3. Coconut

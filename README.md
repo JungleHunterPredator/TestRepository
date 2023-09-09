@@ -81,6 +81,26 @@ Go to Source Control ( CTRIL + SHIFT + G )
 
 Click "Commit"
 
-### Step 4:
+## -----------------------------------------------------------
 
-Click "Sync Changes"
+## RPi Pico Setup
+
+### Step 1:
+
+Go to "Circuit Python > Downloads > Pico > DOWNLOAD .UF2 NOW"
+
+### Step 2:
+
+Plug-in the RPi Pico with the PC
+
+## Step 3:
+
+Open File Explorer Check for ""
+
+## Step 4:
+
+Drag the .UF2 file into ""
+
+## Step 5:
+
+"CIRCUITPY" Would show up

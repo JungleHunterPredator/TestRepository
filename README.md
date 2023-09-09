@@ -1,7 +1,7 @@
 # Test Repository
 This is a Repository for testing function on GitHub.
 
-## ------------------------------------------->
+## ----------------------------------------------------------->
 
 ## What you can do in GitHub README file!
 
@@ -29,7 +29,7 @@ This is a Repository for testing function on GitHub.
 * Banana
 * Coconut
 
-## ------------------------------------------->
+## ----------------------------------------------------------->
 
 ## How to connect VScode to GitHub
 
@@ -65,7 +65,7 @@ Save to a place
 
 Open It
 
-## ------------------------------------------->
+## ----------------------------------------------------------->
 
 ## How to update code to GitHub in VScode
 

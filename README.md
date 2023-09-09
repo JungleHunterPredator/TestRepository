@@ -93,14 +93,60 @@ Go to "Circuit Python > Downloads > Pico > DOWNLOAD .UF2 NOW"
 
 Plug-in the RPi Pico with the PC
 
-## Step 3:
+### Step 3:
 
 Open File Explorer Check for ""
 
-## Step 4:
+### Step 4:
 
 Drag the .UF2 file into ""
 
-## Step 5:
+### Step 5:
 
 "CIRCUITPY" Would show up
+
+## -----------------------------------------------------------
+
+## VScode Integration
+
+### Step 1:
+
+Find "joedevivo.vscode-circuitpython" in extensions and install it
+
+### Step 2:
+
+Open the "CIRCUITPY" folder
+
+### Step 3:
+
+Click "SHIFT + CTRL + P"
+
+### Step 4:
+
+Find "CircuitPython: Select Serial Port" and click on "NAME_OF_PORT   Raspberri Pi:Pico"
+
+### Step 5:
+
+Open Serial Monitor
+
+### Step 6:
+
+Open the "CIRCUITPY" folder
+
+### Step 7:
+
+Click "SHIFT + CTRL + P"
+
+### Step 8:
+
+Find "CircuitPython: Select Serial Port" and click on "NAME_OF_PORT   Raspberri Pi:Pico"
+
+### Step 9:
+
+Enter "CTRL + C" and type in a simple python code "print("Hello World")"
+
+### Step 10:
+
+In the "CIRCUITPY" folder rename "code.py" to "main.py"
+
+
